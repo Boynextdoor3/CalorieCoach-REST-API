@@ -1,6 +1,7 @@
 package com.coursework.caloriecoach.entity;
 
 import jakarta.persistence.*;
+import lombok.Getter;
 
 
 @Entity
